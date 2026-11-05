@@ -1,0 +1,11 @@
+{
+ "name": "toefl-typing-speed",
+ "title": "Typing for TOEFL",
+ "exam": "TOEFL",
+ "area": "TOEFL Speaking and Writing",
+ "desc": "TOEFL writing is typed. Build speed and accuracy with academic sentences.",
+ "content": [
+  "dictation.json"
+ ],
+ "n": 86
+}
